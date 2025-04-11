@@ -11,13 +11,14 @@
     "title": "React",
     "imageSrc": "skills/react.png"
   },
+  
   {
     "title": "Node",
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "MySQL",
+    "imageSrc": "skills/sql.png"
   },
   {
     "title": "MongoDB",
@@ -26,5 +27,23 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "SpringBoot",
+    "imageSrc": "skills/spring.png"
+  },
+  {
+    "title": "TailWind CSS",
+    "imageSrc": "skills/tailwind.jpeg"
+  },
+  
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
   }
+  
 ]
